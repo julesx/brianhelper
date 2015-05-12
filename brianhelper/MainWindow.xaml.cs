@@ -41,7 +41,8 @@ namespace brianhelper
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //Get combobox values!
+            MessageBox.Show("The Selected Fruit is: " + SelectedFruit.Name);
+            MessageBox.Show("The Selected Vegetable is: " + SelectedVegetable.Name);
         }
     }
 
