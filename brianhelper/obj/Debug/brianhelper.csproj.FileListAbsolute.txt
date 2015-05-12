@@ -1,0 +1,14 @@
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\bin\Debug\brianhelper.exe.config
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\bin\Debug\brianhelper.exe
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\bin\Debug\brianhelper.pdb
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper.csprojResolveAssemblyReference.cache
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\MainWindow.g.cs
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\App.g.cs
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper_MarkupCompile.cache
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper_MarkupCompile.lref
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\MainWindow.baml
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper.g.resources
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper.Properties.Resources.resources
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper.csproj.GenerateResource.Cache
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper.exe
+c:\users\julien\documents\visual studio 2015\Projects\brianhelper\brianhelper\obj\Debug\brianhelper.pdb

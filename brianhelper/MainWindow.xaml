@@ -1,0 +1,18 @@
+﻿<Window x:Class="brianhelper.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:brianhelper"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Title="MainWindow"
+        Width="525"
+        Height="350"
+        mc:Ignorable="d">
+    <StackPanel Orientation="Vertical">
+        <ComboBox Margin="10" ItemsSource="{Binding Vegetables}" />
+        <ComboBox Margin="10" ItemsSource="{Binding Fruits}" />
+        <Button Width="350"
+                Margin="10"
+                Content="GO!" Click="Button_Click" />
+    </StackPanel>
+</Window>
