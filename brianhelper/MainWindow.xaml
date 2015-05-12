@@ -9,10 +9,15 @@
         Height="350"
         mc:Ignorable="d">
     <StackPanel Orientation="Vertical">
-        <ComboBox Margin="10" ItemsSource="{Binding Vegetables}" />
-        <ComboBox Margin="10" ItemsSource="{Binding Fruits}" />
+        <ComboBox Margin="10"
+                  ItemsSource="{Binding Vegetables}"
+                  SelectedItem="{Binding SelectedVegetable}" />
+        <ComboBox Margin="10"
+                  ItemsSource="{Binding Fruits}"
+                  SelectedItem="{Binding SelectedFruit}" />
         <Button Width="350"
                 Margin="10"
-                Content="GO!" Click="Button_Click" />
+                Click="Button_Click"
+                Content="GO!" />
     </StackPanel>
 </Window>

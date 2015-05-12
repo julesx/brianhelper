@@ -20,6 +20,9 @@ namespace brianhelper
         public List<Vegetable> Vegetables { get; set; }
         public List<Fruit> Fruits { get; set; }
 
+        public Vegetable SelectedVegetable { get; set; }
+        public Fruit SelectedFruit { get; set; }
+
         public MainWindow()
         {
             InitializeComponent();
